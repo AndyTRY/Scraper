@@ -4,6 +4,8 @@ const uuid = require('uuid');
 const {spawn} = require('child_process');
 const pythonshell = require('python-shell');
 const MAmaProduct = require('../../MongoModels/Amaproduct')
+const fs = require("fs");
+const insertProducts = require('../../Scraped_data/AmazonMongo');
 //root/search
 
 
@@ -16,30 +18,17 @@ router.post('/', (req,res)=>{
     
     AmaScrap.stdout.on('data', function (data) {
         //console.log('Pipe data from python script ...');
-        Arrproduct1 = new Buffer(data, 'utf-8').toString()
-        Arrproduct = Arrproduct1.split('\n')
-        console.log(Arrproduct);
-        if (Arrproduct.length = 4){
-            const Amaproduct = new MAmaProduct({
-                title: Arrproduct[0],
-                price: Arrproduct[1],
-                rating: Arrproduct[2],
-                reviewnum: Arrproduct[3]
-             });
-
-             Amaproducts.push(Amaproduct)
-             Amaproduct.save()
-        }
        });
 
     AmaScrap.on('close', (code) => {
         console.log(`child process close all stdio with code ${code}`);
         // send data to browser
-        console.log(Amaproducts);
-        
+        //console.log(Amaproducts);
+        insertProducts(Amaproducts);
         });
         
 
 });
+
 
 module.exports = router;

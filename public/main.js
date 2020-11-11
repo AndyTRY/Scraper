@@ -45,7 +45,7 @@ function getAPI(e){
     xhr.send(JSON.stringify({search:search})); 
     
     
-    //Read (Timeout fixlater)
+    //Read (Timeout fix later)
     setTimeout(()=>{
         var xhr2 = new XMLHttpRequest();
         xhr2.open("GET", "./ProductFiles/ProductAmazon.txt", true);

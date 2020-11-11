@@ -1,12 +1,12 @@
-#import sys
+import sys
 from bs4 import BeautifulSoup as soup
 from selenium import webdriver
 
 DRIVER_PATH = '/usr/local/share/chromedriver'
 driver = webdriver.Chrome(executable_path=DRIVER_PATH)
-#URL = "https://www.amazon.ca/s?k=" + sys.argv[1] + "&ref=nb_sb_noss_2"
+URL = "https://www.amazon.ca/s?k=" + sys.argv[1] + "&ref=nb_sb_noss_2"
 URL2 = "https://www.amazon.ca/s?k=2080ti&ref=nb_sb_noss_2"
-driver.get(URL2)
+driver.get(URL)
 page_soup = soup(driver.page_source, "html.parser")
 
 item_container = page_soup.findAll("div", {"class": "a-spacing-medium"})
@@ -59,7 +59,7 @@ for container in item_container:
         if ("stars" in Rating):
             Rating = Rating
         else :
-            #print("NoRating", i)
+            print("NoRating", i)
             Rating = "0"
     except AttributeError:
         print("RatingAtErr", i)

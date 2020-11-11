@@ -44,7 +44,7 @@ for container in item_container:
         else:
             Price = "Unavaliable"
     except IndexError:
-        #print("PriceIdxErr", i)
+        print("PriceIdxErr", i)
 
     Stock = "In Stock"
     item_promo = container.div.findAll("p", {"class": "item-promo"})
@@ -60,7 +60,7 @@ for container in item_container:
             Rating = item_rating[0]["title"][-1] + "/5"
             ReviewNum = item_rating[0].span.text[1:-1]
     except KeyError:
-        #print("RatingKeyErr", i)
+        print("RatingKeyErr", i)
 
     Brand = ""
     item_brand = container.div.div.findAll("a", {"class": "item-brand"})
