@@ -69,9 +69,10 @@ for container in item_container:
     f.write(Title + "\n" + Brand + "\n" + Price + "\n" + Rating + "\n" + ReviewNum + "\n" + Stock + "\n"
             + Link + "\n\n")
     i += 1
-
+    
+driver.quit()
 f.close()
-driver.close()
+
 
 
 

@@ -24,7 +24,7 @@ router.post('/', (req,res)=>{
         console.log(`child process close all stdio with code ${code}`);
         // send data to browser
         //console.log(Amaproducts);
-        insertProducts(Amaproducts);
+        //insertProducts(Amaproducts);
         });
         
 

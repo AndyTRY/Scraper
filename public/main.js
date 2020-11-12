@@ -51,10 +51,22 @@ function getAPI(e){
         xhr2.open("GET", "./ProductFiles/ProductAmazon.txt", true);
         xhr2.onload = function(){
             if(this.status == 200){
-            console.log(this.responseText);
+            //console.log(this.responseText);
+            tableInsert("table2",this.responseText,4)
                 }
             }
         xhr2.send();
+        
+        var xhr3 = new XMLHttpRequest();
+        xhr3.open("GET", "./ProductFiles/NeweggProduct.txt", true);
+        xhr3.onload = function(){
+            if(this.status == 200){
+            //console.log(this.responseText);
+            tableInsert("table1",this.responseText,7)
+                }
+            }
+        xhr3.send();
+
     }, 8000)
 
 
@@ -62,6 +74,28 @@ function getAPI(e){
    
 }
 
+function tableInsert(tableName,data,numFeatures) {
+
+dlist = data.split('\n');
+let n = dlist.length - 1;
+let index;
+var table = document.getElementById(tableName);
+let itemNum = 1;
+
+for (index = 0; index < (n/(numFeatures+1));index++){
+    var row = table.insertRow(-1);
+    var cell = row.insertCell(0);
+    cell.innerHTML =  `${itemNum}`;
+
+    for (i =1; i< numFeatures + 1; i++){
+        var cell = row.insertCell(i);
+        cell.innerHTML = dlist.shift();
+    }
+
+    dlist.shift()
+    itemNum++;
+    }
+}
 
 
 
