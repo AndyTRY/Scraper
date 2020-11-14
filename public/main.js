@@ -37,6 +37,7 @@ function getAPI(e){
     e.preventDefault();
     
     ///Scrap
+    
     var search = document.getElementById('name2').value;
     console.log("postedProduc");
     var xhr = new XMLHttpRequest();
@@ -80,10 +81,13 @@ dlist = data.split('\n');
 let n = dlist.length - 1;
 let index;
 var table = document.getElementById(tableName);
+//var newTbody = document.createElement('tbody');
+var tbody = document.getElementById(tableName).getElementsByTagName('tbody')[0];
+tbody.innerHTML = '';
 let itemNum = 1;
 
 for (index = 0; index < (n/(numFeatures+1));index++){
-    var row = table.insertRow(-1);
+    var row = tbody.insertRow(-1);
     var cell = row.insertCell(0);
     cell.innerHTML =  `${itemNum}`;
 
@@ -95,6 +99,8 @@ for (index = 0; index < (n/(numFeatures+1));index++){
     dlist.shift()
     itemNum++;
     }
+
+    //table.parentNode.replaceChild(newTbody,oldBodyRef)
 }
 
 
