@@ -66,8 +66,8 @@ for container in item_container:
     item_brand = container.div.div.findAll("a", {"class": "item-brand"})
     if len(item_brand) != 0:
         Brand = item_brand[0].img["title"]
-    f.write(Title + "\n" + Brand + "\n" + Price + "\n" + Rating + "\n" + ReviewNum + "\n" + Stock + "\n"
-            + Link + "\n\n")
+        
+    f.write(Title + "\n" + Brand + "\n" + Price + "\n" + Rating + "\n" + ReviewNum + "\n" + Stock + "\n"+ Link + "\n\n")
     i += 1
     
 driver.quit()

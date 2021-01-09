@@ -1,6 +1,6 @@
 console.log("res");
 //document.getElementById('getForm').addEventListener('submit',getName);
-document.getElementById('button1').addEventListener('click',getAMA);
+
 document.getElementById('Prosearch').addEventListener('submit',getAPI);
 
 /*
@@ -68,7 +68,7 @@ function getAPI(e){
             }
         xhr3.send();
 
-    }, 8000)
+    }, 10000)
 
 
     //Scrappost();

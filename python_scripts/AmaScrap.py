@@ -84,7 +84,7 @@ for container in item_container:
 
     #f.write(Title.replace(",", "|") + "," + Price.replace(",", "") + "," + Rating + "," + ReviewNum + "," + "\n")
     f.write(Title + "\n" + Price + "\n" + Rating + "\n" + ReviewNum + "\n\n")
-    print(Title + "\n" + Price + "\n" + Rating + "\n" + ReviewNum )
+    #print(Title + "\n" + Price + "\n" + Rating + "\n" + ReviewNum )
     
     #f.write(Rating + "\n")
 
