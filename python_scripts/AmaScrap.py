@@ -1,9 +1,13 @@
 import sys
 from bs4 import BeautifulSoup as soup
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+
+chrome_options = Options()
+chrome_options.add_argument("--headless")
 
 DRIVER_PATH = '/usr/local/share/chromedriver'
-driver = webdriver.Chrome(executable_path=DRIVER_PATH)
+driver = webdriver.Chrome(executable_path=DRIVER_PATH, options=chrome_options)
 URL = "https://www.amazon.ca/s?k=" + sys.argv[1] + "&ref=nb_sb_noss_2"
 URL2 = "https://www.amazon.ca/s?k=2080ti&ref=nb_sb_noss_2"
 driver.get(URL)

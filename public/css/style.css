@@ -8,3 +8,14 @@ body {
     width: 300px;
 }
 
+.searchBar{
+    display: flex;
+    
+}
+
+#loaderGif{
+    padding-left: 2em;
+    height: 2em;
+    width: 2em;
+    visibility: hidden;
+}

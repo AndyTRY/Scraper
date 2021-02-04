@@ -1,13 +1,18 @@
 import sys
 from bs4 import BeautifulSoup as soup
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+
+chrome_options = Options()
+chrome_options.add_argument("--headless")
 
 DRIVER_PATH = '/usr/local/share/chromedriver'
-driver = webdriver.Chrome(executable_path=DRIVER_PATH)
+driver = webdriver.Chrome(executable_path=DRIVER_PATH, options=chrome_options)
 my_url = "https://www.newegg.ca/p/pl?d=" + sys.argv[1]
 
 driver.get(my_url)
 page_soup = soup(driver.page_source, "html.parser")
+
 
 item_container = page_soup.findAll("div", {"class": "item-container"})
 

@@ -1,32 +1,160 @@
-OLOy 16GB (2 x 8GB) 288-Pin DDR4 SDRAM DDR4 3200 (PC4 25600) Desktop Memory Model MD4U083216BHDA
-
-81.99
+ASUS ROG Strix GeForce RTX 2080 Ti DirectX 12 ROG-STRIX-RTX2080TI-O11G-GAMING 11GB 352-Bit GDDR6 PCI Express 3.0 HDCP Ready SLI Support Video Card
+ASUS
+3,393.90
 4/5
-288
-In Stock
-https://www.newegg.ca/oloy-16gb-288-pin-ddr4-sdram/p/N82E16820821277
-
-G.SKILL Ripjaws V Series 32GB (2 x 16GB) 288-Pin DDR4 SDRAM DDR4 3200 (PC4 25600) Desktop Memory Model F4-3200C16D-32GVK
-
-149.99
-4/5
-4,376
-In Stock
-https://www.newegg.ca/g-skill-32gb-288-pin-ddr4-sdram/p/N82E16820232091
-
-G.SKILL Trident Z Neo (For AMD Ryzen) Series 32GB (2 x 16GB) 288-Pin RGB DDR4 SDRAM DDR4 3600 (PC4 28800) Desktop Memory Model F4-3600C16D-32GTZNC
-
-288.99
-4/5
-1,222
-In Stock
-https://www.newegg.ca/g-skill-32gb-288-pin-ddr4-sdram/p/N82E16820232861
-
-Crucial 4GB 240-Pin DDR3 SDRAM DDR3L 1600 (PC3L 12800) Major Brand Chipset Desktop Memory Model CT51264BD160B
-
-29.99
-5/5
 124
 In Stock
-https://www.newegg.ca/crucial-4gb-240-pin-ddr3-sdram/p/N82E16820148473
+https://www.newegg.ca/asus-geforce-rtx-2080-ti-rog-strix-rtx2080ti-o11g-gaming/p/N82E16814126263?Description=2080ti&cm_re=2080ti-_-14-126-263-_-Product
+
+ASUS ROG Strix GeForce RTX 2080 Ti DirectX 12 ROG-STRIX-RTX2080TI-A11G-GAMING 11GB 352-Bit GDDR6 PCI Express 3.0 HDCP Ready SLI Support Video Card
+ASUS
+2,997.90
+3/5
+19
+In Stock
+https://www.newegg.ca/asus-geforce-rtx-2080-ti-rog-strix-rtx2080ti-a11g-gaming/p/N82E16814126265?Description=2080ti&cm_re=2080ti-_-9SIAHEBD032158-_-Product
+
+EVGA GeForce RTX 2080 Ti XC ULTRA GAMING Video Card, 11G-P4-2383-RX, 11GB GDDR6, Dual HDB Fans & RGB LED
+EVGA
+1,617.99
+3/5
+18
+In Stock
+https://www.newegg.ca/evga-geforce-rtx-2080-ti-11g-p4-2383-rx/p/N82E16814487510?Description=2080ti&cm_re=2080ti-_-14-487-510-_-Product
+
+GIGABYTE AORUS GeForce RTX 2080 TI DirectX 12 GV-N208TAORUS X-11GC Video Card
+GIGABYTE
+2,999.90
+4/5
+49
+In Stock
+https://www.newegg.ca/gigabyte-geforce-rtx-2080-ti-gv-n208taorus-x-11gc/p/N82E16814932076?Description=2080ti&cm_re=2080ti-_-9SIAHEBD7V4107-_-Product
+
+MSI Gaming Desktop Aegis RS 10SF-077US Intel Core i7 10th Gen 10700KF (3.80 GHz) 16 GB DDR4 1 TB SSD NVIDIA GeForce RTX 2080 Ti Windows 10 Home 64-bit
+MSI
+2,599.99
+3/5
+2
+In Stock
+https://www.newegg.ca/msi-aegis-rs-10sf-077us/p/N82E16883152705?Description=2080ti&cm_re=2080ti-_-83-152-705-_-Product
+
+GIGABYTE AORUS GeForce RTX 2080 Ti DirectX 12 GV-N208TAORUS-11GC 11GB 352-Bit GDDR6 PCI Express 3.0 x16 SLI Support ATX Video Card
+GIGABYTE
+2,999.99
+2/5
+6
+In Stock
+https://www.newegg.ca/gigabyte-geforce-rtx-2080-ti-gv-n208taorus-11gc/p/N82E16814932077?Description=2080ti&cm_re=2080ti-_-9SIAKWVDSW7231-_-Product
+
+Gigabyte GeForce RTX 2080 Ti Turbo 11GB GDDR6 Graphics Card (GV-N208TAORUS T-11GC)
+GIGABYTE
+2,821.90
+None
+0
+In Stock
+https://www.newegg.ca/p/1FT-000A-00160?Description=2080ti&cm_re=2080ti-_-9SIAHEBD922939-_-Product
+
+EVGA GeForce RTX 2080 Ti BLACK EDITION GAMING, 11G-P4-2281-RX, 11GB GDDR6, Dual HDB Fans & RGB LED
+EVGA
+2,099.94
+4/5
+9
+In Stock
+https://www.newegg.ca/evga-geforce-rtx-2080-ti-11g-p4-2281-rx/p/N82E16814487501?Description=2080ti&cm_re=2080ti-_-9SIACBDC5R6299-_-Product
+
+MSI GeForce RTX 2080 TI GAMING X TRIO Video Card
+MSI
+2,399.99
+4/5
+56
+Out of Stock
+https://www.newegg.ca/msi-geforce-rtx-2080-ti-rtx-2080-ti-gaming-x-trio/p/N82E16814137338?Description=2080ti&cm_re=2080ti-_-14-137-338-_-Product
+
+CLX SET Gaming PC - Intel Core i7 9700KF 3.6GHz 8-Core, 32GB DDR4 3000, GeForce RTX 2080 Ti 11GB, 480GB SSD + 4TB HDD,  Black Mini-Tower RGB,  Windows 10 Home
+CLX
+3,919.99
+None
+0
+Out of Stock
+https://www.newegg.ca/clx-tgvsetrth0542bm/p/3D5-000B-00106?Description=2080ti&cm_re=2080ti-_-9SIACY7BYN3867-_-Product
+
+CLX SET Gaming Desktop, AMD Ryzen Threadripper 3970X 3.70GHz 32-Core, 128GB DDR4, GeForce RTX 2080 Ti 11GB, 960 GB SSD, 6 TB HDD, WiFi, Windows 10 Home
+CLX
+8,469.99
+5/5
+1
+Out of Stock
+https://www.newegg.ca/clx-tgvsetrth0207br/p/3D5-000B-000T6?Description=2080ti&cm_re=2080ti-_-3D5-000B-000T6-_-Product
+
+ABS Legend Gaming PC - Intel i9-9900K - GeForce RTX 2080 Ti - 32GB DDR4 - 1TB SSD - Liquid Cooling 240mm
+ABS
+3,699.99
+3/5
+22
+Out of Stock
+https://www.newegg.ca/abs-computer-technologies-mage-h-ali373/p/N82E16883102898?Description=2080ti&cm_re=2080ti-_-83-102-898-_-Product
+
+CLX SET GAMING PC Intel Core i9 9900K 3.60GHz (8 Cores) 16GB DDR4 3TB HDD & 960GB SSD NVIDIA GeForce RTX 2080Ti 11GB GDDR6 MS Windows 10 Home 64-Bit
+CLX
+3,909.99
+4/5
+13
+Out of Stock
+https://www.newegg.ca/clx-tgvsetrth8a32br/p/3D5-000B-00027?Description=2080ti&cm_re=2080ti-_-3D5-000B-00027-_-Product
+
+CLX SET with AMD Ryzen 7 3800X 3.9GHz, GeForce RTX 2080Ti 11GB, 16GB Mem, 960 SSD, WiFi, MS Win 10 Home
+CLX
+3,289.99
+None
+0
+Out of Stock
+https://www.newegg.ca/clx/p/3D5-000B-000N0?Description=2080ti&cm_re=2080ti-_-9SIACY79KS8053-_-Product
+
+CLX SET with AMD Ryzen 7 3800X 3.9GHz, GeForce RTX 2080Ti 11GB, 32GB Mem, 480 SSD +  3TB HDD WiFi, MS Win 10 Home
+CLX
+3,814.99
+None
+0
+Out of Stock
+https://www.newegg.ca/clx/p/3D5-000B-000M3?Description=2080ti&cm_re=2080ti-_-9SIACY79KS8062-_-Product
+
+CLX SET Gaming Desktop, Intel Core i9 10900X 3.70GHz 10-Core, 32GB DDR4, GeForce RTX 2080 Ti 11GB, 960 GB SSD, 3 TB HDD, WiFi, Windows 10 Home
+CLX
+4,749.99
+5/5
+2
+Out of Stock
+https://www.newegg.ca/clx-tgvsetrth0202wr/p/3D5-000B-000S7?Description=2080ti&cm_re=2080ti-_-3D5-000B-000S7-_-Product
+
+ABS Prism S - Intel Core i9-9900K - GeForce RTX 2080 Ti - 16GB DDR4 - 1TB SSD - Liquid Cooling (240 mm) - Gaming Desktop PC
+ABS
+Unavaliable
+2/5
+9
+Out of Stock
+https://www.newegg.ca/abs-computer-technologies-prism-s-ali363/p/N82E16883102883?Description=2080ti&cm_re=2080ti-_-83-102-883-_-Product
+
+ABS Mage H - Intel i9-9900K - GeForce RTX 2080 Ti - 16GB DDR4 - 240GB SSD - 2TB HDD - Liquid Cooling - Gaming Desktop PC
+ABS
+3,399.99
+2/5
+4
+Out of Stock
+https://www.newegg.ca/abs-computer-technologies-nite-ali266/p/N82E16883102580?Description=2080ti&cm_re=2080ti-_-83-102-580-_-Product
+
+HotshotGG's ABS Gaming Desktop - Intel i9-9900K - GeForce RTX 2080 Ti - 32GB DDR4 - 2TB NVMe SSD - Gaming Desktop PC
+ABS
+4,799.99
+None
+0
+Out of Stock
+https://www.newegg.ca/abs-computer-technologies-ali401/p/N82E16883102959?Description=2080ti&cm_re=2080ti-_-83-102-959-_-Product
+
+CLX SET Gaming PC - AMD Ryzen 7 3800X 3.9GHz 8-Core, 32GB DDR4 3000, GeForce RTX 2080 Ti 11GB, 480GB SSD + 4TB HDD, WiFi, Black Mini-Tower RGB,  Windows 10 Home
+CLX
+3,814.99
+None
+0
+Out of Stock
+https://www.newegg.ca/clx-tgvsetrth0521bm/p/3D5-000B-00127?Description=2080ti&cm_re=2080ti-_-9SIACY7BYN3832-_-Product
 

@@ -11,11 +11,14 @@
     
     
     <h1>Product Search Aggregator</h1>
-    
-    <form id = "Prosearch">
+    <div class="searchBar">
+      <form id="Prosearch">
         <input type="text" name="name" id="name2">
-        <input type="submit" value="Productserach">
-    </form>
+        <input id="inputButton" type="submit" value="Productserach" disabled>
+      </form>
+      <img id="loaderGif" src="Images/ajax-loader.gif" alt="" class="">
+    </div>
+    
     <img src="Images/newegg-seeklogo.com.svg" height="100px" width="150px">
     <table id = table1 style="width:100%">
         <thead>

@@ -3,13 +3,23 @@ const path = require('path');
 const logger = require('./middleware/logger')
 const mongoose = require('mongoose')
 const app = express();
+require('dotenv').config();
 
-//connect with mongoose
+const ScrapRouter = require("./routes/Search")
 
+//MongoDB Cloud
+/*
+const db = require("./config/keys").mongoURI;
+mongoose.connect(db, { useNewUrlParser: true, useUnifiedTopology: true})
+.then(() => console.log("MongoDB Connected"))
+.catch(err => console.log(err));
+*/
+
+//MongoDB Local
 /*
 const url = 'mongodb://127.0.0.1:27017/Scrapproject'
 mongoose.connect(url, { useNewUrlParser: true, useUnifiedTopology: true})
-.then(()=> console.log("connect success"))
+.then(()=> console.log("Local MongoDB Connected"))
 .catch(err => console.log(err))
 */
 
@@ -24,7 +34,7 @@ app.use(express.static(path.join(__dirname,'public')));
 //'passes route '/api/members' to router (it will view this as root '/')
 //Members Api Routes
 app.use('/api/members', require('./routes/api/members'));
-app.use('/search', require('./routes/Search/search'));
+app.use('/search', ScrapRouter);
 app.use('/products', require('./routes/api/products'));
 
 const PORT = process.env.PORT || 5000;
